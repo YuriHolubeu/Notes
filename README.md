@@ -13,12 +13,7 @@ Now big part of them is in Russian, since half of my education was in Russian an
 I am slowly rewriting them in English.
 
 
-The idea of this approach was inspired by the example of Landau and Feynman, who understood many complex formulas and easily reproduced them (for this I created the first part, where the main theory is briefly summarized), 
-and also deeply understood the meaning of each subject (for this I elaborate the theory in detail and think through all the important questions in latter parts).
-The structuring of the notes allows to track and set the necessary priorities.
-The goal of this approach is to develop a deep understanding of the subject and not to make publication of these notes.
-I am sharing them only with my friends. Maybe many years later, these notes will be on such a level that there will be a sense of publishing them as a book, but now this is not the case.
-
+See description of them in the pdf above.
 
 
 ------------------------------------------------------------------------------------------------------------
@@ -36,6 +31,6 @@ I am sharing them only with my friends. Maybe many years later, these notes will
 
 Идея такого подхода была вдохновлена примером Ландау и Фейнмана, которые, как известно, понимали многие сложные формулы и с легкостью их воспроизводили (для этого я создал первую часть,
 где коротко приводится основная теория), а также глубоко понимали смысл каждого предмета (для этого я подробно прописываю теорию и продумываю все важные вопросы в последующих частях).
-Структурированность записи позволяет отслеживать и расставлять нужные приоритеты.
+Продуманная структурированность записи позволяет отслеживать и расставлять нужные приоритеты.
 
 
